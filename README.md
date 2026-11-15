@@ -1,5 +1,20 @@
-## Hi there 👋
+# Salom! 👋
 
+Men Git va GitHub bilan ishlashni o‘rganyapman.
+
+## O‘rganayotgan mavzularim
+- Git
+- GitHub
+- Branch
+- Commit
+- Merge
+## Loyihalarim
+
+- [Kundalik](https://github.com/Nigoranishanboyeva/kundalik)
+- [Men haqimda](https://github.com/Nigoranishanboyeva/men-haqimda)
+
+Bu loyihalar orqali Git va GitHub
+bilan ishlashni mashq qilaman.
 <!--
 **Nigoranishanboyeva/Nigoranishanboyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

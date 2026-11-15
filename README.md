@@ -1,4 +1,13 @@
-## Hi there 👋
+# Salom! 👋
+
+Men Git va GitHub bilan ishlashni o‘rganyapman.
+
+## O‘rganayotgan mavzularim
+- Git
+- GitHub
+- Branch
+- Commit
+- Merge
 
 <!--
 **Nigoranishanboyeva/Nigoranishanboyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
